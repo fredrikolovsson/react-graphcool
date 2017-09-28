@@ -1,3 +1,9 @@
+## react-graphcool
+This is a quick and dirty prototype using the [Graphcool](https://www.graph.cool/) serverless GraphQL backend and [Material UI](http://www.material-ui.com/) React components, together with [Create React App](https://github.com/facebookincubator/create-react-app) for a proof-of-concept with Graphcool email-based user authentication.
+
+A lot of the stuff in this prototype is unnecessary if the goal was just to do the authentication as quickly as possible, but I also wanted to try out React Router v4 and using Redux with Apollo. The first thing I would do, before building more stuff on top of this, is to upgrade Material UI to their latest version, which can be a bit different to the early one I used.
+
+## Create React App README
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
